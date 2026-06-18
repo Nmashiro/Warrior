@@ -1,0 +1,60 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE and local editor state
+.vs/
+.vscode/
+.idea/
+.vsconfig
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# Build and diagnostic leftovers
+*.log
+*.tmp
+*.temp
+
+# Generated plugin build output
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# Local AI/editor helper files and private notes
+/.claude/
+/.codex/
+/AGENTS.md
+/CLAUDE.md
+
+# Local helper plugin, not enabled by Warrior.uproject
+/Plugins/unreal-mcp/
+
+# Packaged builds, generated documentation, and portfolio media
+/Game/
+/Docs/
+/video/
+/Source/WarriorStudy.*
+
+# Nested local repositories or scratch copies
+/Warrior/
+/WarriorCode/
+
+# Project-specific excluded music assets
+Content/Assets/Sounds/Music/Combat/
+Content/Assets/Sounds/Music/combat/
+Content/Assets/Sounds/Music/Victory/
+Content/Assets/Sounds/Music/victory/
+Content/Assets/Sounds/Music/MainMenu_WarriorMotif_DarkRuins.*
+
+# Project-specific excluded creature sound assets
+Content/Assets/Sounds/Creatures/artificiallyinspired-90s-sitcom-laugh-track-353985.uasset
+Content/Assets/Sounds/Creatures/EvilLaugh.uasset
+Content/Assets/Sounds/Creatures/EvilLaugh2.uasset
+Content/Assets/Sounds/Creatures/EvilLaugh/
